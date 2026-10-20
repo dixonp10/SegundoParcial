@@ -30,21 +30,8 @@ APE4_POO_Java/
 │   ├── ejercicio3/   Mascota.java, Main.java
 │   ├── ejercicio4/   Cuenta.java, Main.java
 │   └── ejercicio5/   Libro.java, Socio.java, Main.java
-└── salidas/          salida_ejercicio1.txt ... salida_ejercicio5.txt
+└── salidas/          salida_ejercicio1.png ... salida_ejercicio5.png
 ```
-
-## Cómo ejecutar
-
-Requisitos: JDK 17 o superior.
-
-```bash
-javac -d out $(find src -name "*.java")
-java -cp out ejercicio1.Main
-```
-
-Cambiar `ejercicio1` por `ejercicio2`, `ejercicio3`, `ejercicio4` o `ejercicio5` para ejecutar los demás.
-
-También se puede abrir la carpeta en NetBeans, IntelliJ IDEA o Eclipse y ejecutar la clase `Main` de cada paquete.
 
 ## Salidas
 
